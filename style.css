@@ -1,0 +1,27 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+#alert{
+margin-top: -36px;
+    display: none ;
+}
+
+@keyframes animate{
+    font{
+        margin-top: -36;
+    }
+    to{
+ margin-top:0 ;
+    }
+}
+.box{
+    position: relative;
+    transition: all 1s;
+    width: fit-content;
+   
+}
+
+.btndiv{
+    width: 320px;
+}
